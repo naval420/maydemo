@@ -7,3 +7,4 @@ this is example of pr
 example of git pull
 example of git fetch
 git merge example m1
+git m2 commit
