@@ -6,3 +6,4 @@ this is develop branch changes\
 this is example of pr
 example of git pull
 example of git fetch
+git merge example m1
